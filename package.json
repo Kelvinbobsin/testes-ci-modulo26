@@ -23,7 +23,6 @@
     "homepage": "",
     "devDependencies": {
         "cypress": "12.16",
-        "cypress-mochawesome-reporter": "^3.8.2",
         "install": "^0.13.0",
         "mochawesome": "^7.1.3"
     },
